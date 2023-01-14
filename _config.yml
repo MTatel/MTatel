@@ -1,8 +1,13 @@
-[theme]
-name="aurora"
-description="A soothing catppuccin theme for winter ❄️"
-author="flick0"
-version="1.0.0"
-git="https://github.com/flick0/hyprland-aurora"
-config="aurora.conf"
+const themes = [
+  { text: 'VSCode', value: 'vscode' },
+  { text: 'Dark Gradient', value: 'dark-grad' },
+  { text: 'Light Gradient', value: 'light-grad' },
+  { text: 'Dark', value: 'dark' },
+  { text: 'Light', value: 'light' },
+  { text: 'Editaro', value: 'editaro' },
+  { text: 'Editaro Wave', value: 'editaro-wave' },
+  { text: 'Aesthetic', value: 'aesthetic' },
+  { text: 'Aesthetic Wave', value: 'aesthetic-wave' },
+]
 
+export default themes

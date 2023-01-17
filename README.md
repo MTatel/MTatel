@@ -4,10 +4,10 @@ Hello, welcome to my page!
 
 - ⋆｡ﾟ☁︎｡⋆ Hobbies ｡ﾟ☾ ﾟ｡⋆
 
-painting
-drawing
-crocheting
-baking
+. painting
+. drawing
+. crocheting
+. baking
 
 
 

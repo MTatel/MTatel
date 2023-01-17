@@ -1,6 +1,5 @@
-### ✭ ⋆☆ﾟ Megan Andrea P. Tatel  ⋆ . ˚ ✩
-
-Hello, welcome to my page! 
+### ✭ ⋆☆ﾟ Welcome to my page! ⋆ . ˚ ✩
+ 
 
 ⋆｡ﾟ☁︎｡⋆ Hobbies ｡ﾟ☾ ﾟ｡⋆
 

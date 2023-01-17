@@ -2,11 +2,11 @@
 
 Hello, welcome to my page! 
 
-⋆｡ﾟ☁︎｡⋆Hobbiesﾟ☾ ﾟ｡⋆
-- painting
-- drawing
-- crocheting
-- baking
+- ⋆｡ﾟ☁︎｡⋆ Hobbies ｡ﾟ☾ ﾟ｡⋆
+painting
+drawing
+crocheting
+baking
 
 
 

@@ -3,6 +3,7 @@
 Hello, welcome to my page! 
 
 - ⋆｡ﾟ☁︎｡⋆ Hobbies ｡ﾟ☾ ﾟ｡⋆
+
 painting
 drawing
 crocheting

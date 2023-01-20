@@ -5,7 +5,7 @@
 
 ### ⋆｡ﾟ☁︎｡⋆ Welcome to my page! ﾟ☾ ﾟ｡⋆
 
-Hello hello, you can call me Meg, and again welcome to my page ( ˶ˆᗜˆ˵ )
+Hello hello, you can call me Meg, and once again, welcome to my page 
  
 
  ˖⁺‧₊˚ Hobbies ˚₊‧⁺˖
@@ -14,6 +14,7 @@ Hello hello, you can call me Meg, and again welcome to my page ( ˶ˆᗜˆ˵ )
 - drawing
 - crocheting
 - baking
+- Photography
 
 
 ˖⁺‧₊˚ favorite artists ˚₊‧⁺˖
@@ -22,6 +23,7 @@ Hello hello, you can call me Meg, and again welcome to my page ( ˶ˆᗜˆ˵ )
 - Crumb
 - IDK how but they found me
 - Margaux
+- Current joys
 
 
 

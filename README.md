@@ -3,15 +3,22 @@
 
 
 
-### ✭ ⋆☆ﾟ Welcome to my page! ⋆ . ˚ ✩
+### ⋆｡ﾟ☁︎｡⋆ Welcome to my page! ﾟ☾ ﾟ｡⋆
  
 
-⋆｡ﾟ☁︎｡⋆ Hobbies ｡ﾟ☾ ﾟ｡⋆
+ ˖⁺‧₊˚ Hobbies ˚₊‧⁺˖
 
 - painting
 - drawing
 - crocheting
 - baking
+
+˖⁺‧₊˚ Current favorite artists ˚₊‧⁺˖
+
+- Bubble tea and cigarettes
+- Crumb
+- IDK how but they found me
+
 
 
 

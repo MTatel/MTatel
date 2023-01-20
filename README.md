@@ -14,11 +14,12 @@
 - baking
 
 
-˖⁺‧₊˚ Current favorite artists ˚₊‧⁺˖
+˖⁺‧₊˚ favorite artists ˚₊‧⁺˖
 
 - Bubble tea and cigarettes
 - Crumb
 - IDK how but they found me
+- Margaux
 
 
 

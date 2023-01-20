@@ -4,6 +4,8 @@
 
 
 ### ⋆｡ﾟ☁︎｡⋆ Welcome to my page! ﾟ☾ ﾟ｡⋆
+
+Hello hello, you can call me Meg, and again welcome to my page ( ˶ˆᗜˆ˵ )
  
 
  ˖⁺‧₊˚ Hobbies ˚₊‧⁺˖

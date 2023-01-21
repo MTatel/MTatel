@@ -13,7 +13,6 @@ Hello hello, you can call me Meg, and once again, welcome to my page
 - painting
 - drawing
 - crocheting
-- baking
 - Photography
 
 
@@ -23,7 +22,7 @@ Hello hello, you can call me Meg, and once again, welcome to my page
 - Crumb
 - IDK how but they found me
 - Margaux
-- Current joys
+
 
 
 
